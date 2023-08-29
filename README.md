@@ -11,7 +11,7 @@
 <br/>
 <div align="center">
  
- <a>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beatitude98)](https://solved.ac/beatitude98/)<a/>
+ <a>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beatitude98)](https://solved.ac/profile/beatitude98)<a/>
 
 </div>
 
